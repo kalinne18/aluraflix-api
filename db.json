@@ -1,0 +1,96 @@
+{
+    "tipos": [
+      {
+        "titulo": "FRONT END",
+        "cor":"#6BD1FF",
+        "corDecoracao": "#6BD1FF"
+      },
+      {
+        "titulo": "BACK END",
+        "corDecoracao": "#00C86F"
+      },
+      {
+        "titulo": "INOVAÇÃO E GESTÃO",
+        "corDecoracao": "#F028A0"
+      },
+      {
+        "titulo": "MOBILE",
+        "corDecoracao": "#FFBA05"
+      }
+    ],
+    "videos": [
+      {
+        "titulo": "O que faz uma desenvolvedora front-end?",
+        "imagem": "https://www.youtube.com/watch?v=ZY3-MFxVdEw&t=1s",
+        "video": "https://www.youtube.com/watch?v=ZY3-MFxVdEw&t=1s",
+        "categoria": "FRONT END"
+      },
+      {
+        "titulo": "Métricas para o Front End com Mario Souto",
+        "imagem": "https://www.youtube.com/watch?v=iVNR-6v8lZU.png",
+        "video": "https://www.youtube.com/watch?v=iVNR-6v8lZU",
+        "categoria": "FRONT END"
+      },
+      {
+        "titulo": "O que é JavaScript?",
+        "imagem": "https://www.youtube.com/watch?v=NaVSbnnV75Q.png",
+        "video": "https://www.youtube.com/watch?v=NaVSbnnV75Q",
+        "categoria": "FRONT END"
+      },
+      {
+        "titulo": "O que faz uma desenvolvedora Back-end?",
+        "imagem": "https://www.youtube.com/watch?v=fiPfvylj6rk.png",
+        "video": "https://www.youtube.com/watch?v=fiPfvylj6rk",
+        "categoria": "BACK END"
+      },
+      {
+        "titulo": "Kotlin, Micronaut e Back-end com Alberto Sousa",
+        "imagem": "https://www.youtube.com/watch?v=PV9FoHvVE8k.png",
+        "video": "https://www.youtube.com/watch?v=PV9FoHvVE8k",
+        "categoria": "BACK END"
+      },
+      {
+        "titulo": "Qual é a melhor linguagem de programação?",
+        "imagem": "https://www.youtube.com/watch?v=Uh-GNH-t89w.png",
+        "video": "https://www.youtube.com/watch?v=Uh-GNH-t89w",
+        "categoria": "BACK END"
+      },
+      {
+        "titulo": "O que é gestão de carreira?",
+        "imagem": "https://www.youtube.com/watch?v=unz-EGRNVa0&t=319s.png",
+        "video": "https://www.youtube.com/watch?v=unz-EGRNVa0&t=319s",
+        "categoria": "INOVAÇÃO E GESTÃO"
+      },
+      {
+        "titulo": "Educação corporativa com Camila Achutti",
+        "imagem": "https://www.youtube.com/watch?v=IGFSiBJIXFQ.png",
+        "video": "https://www.youtube.com/watch?v=IGFSiBJIXFQ",
+        "categoria": "INOVAÇÃO E GESTÃO"
+      },
+      {
+        "titulo": "O que são métodos ágeis?",
+        "imagem": "https://www.youtube.com/watch?v=j5mCirZD-0s.png",
+        "video": "https://www.youtube.com/watch?v=j5mCirZD-0s",
+        "categoria": "INOVAÇÃO E GESTÃO"
+      },
+      {
+        "titulo": "Desenvolvimento Android",
+        "imagem": "https://www.youtube.com/watch?v=fWscDFHKgw8.png",
+        "video": "https://www.youtube.com/watch?v=fWscDFHKgw8",
+        "categoria": "MOBILE"
+      },
+      {
+        "titulo": "Desenvolvimento iOS pra iniciantes com Giovanna Moeller",
+        "imagem": "https://www.youtube.com/watch?v=MGIs7DSQ-0A.png",
+        "video": "https://www.youtube.com/watch?v=MGIs7DSQ-0A",
+        "categoria": "MOBILE"
+      },
+      {
+        "titulo": "Executando código mobile pelo Smartphone",
+        "imagem": "https://www.youtube.com/watch?v=U885ON-D_G0.png",
+        "video": "https://www.youtube.com/watch?v=U885ON-D_G0",
+        "categoria": "MOBILE"
+      }
+    ]
+  }
+  
