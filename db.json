@@ -1,8 +1,7 @@
 {
     "tipos": [
       {
-        "titulo": "FRONT END",
-        "cor":"#6BD1FF",
+        "titulo": "FRONT END",       
         "corDecoracao": "#6BD1FF"
       },
       {
